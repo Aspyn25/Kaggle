@@ -48,4 +48,10 @@ To predict whether a passenger survived the Titanic disaster using machine learn
 
 ---
 
-## 📁 File Structure
+## 🔗 Access the Project 
+- **Kaggle**: (https://www.kaggle.com/code/jeonghyunsong/titanic-survival-prediction-with-rf)  
+
+## Auther
+**Aspyn (Jeonghyun Song)** <br>
+🔗 [GitHub](https://github.com/Aspyn25)  
+🔗 [LinkedIn](https://www.linkedin.com/in/aspyn25)  
